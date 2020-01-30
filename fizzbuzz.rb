@@ -10,3 +10,6 @@
 #     "Buzz"
 #   end
 # end
+
+def fizzbuzz(num)
+  
